@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "outDir": "lib",
+    "target": "esnext",
+    "sourceMap": true,
+    "declaration": true,
+    "module": "commonjs",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "noUnusedLocals": true
+  }
+}
