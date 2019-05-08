@@ -1,6 +1,6 @@
 {
   "name": "@cotype/local-thumbnail-provider",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "description": "thumbnail provider for locally stored thumbnails",
   "main": "index.js",
   "scripts": {
