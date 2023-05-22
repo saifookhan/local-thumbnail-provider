@@ -1,6 +1,6 @@
 {
   "name": "@cotype/local-thumbnail-provider",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "thumbnail provider for locally stored thumbnails",
   "main": "lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "local",
     "sharp"
   ],
-  "author": "Hannes Diercks <node@xiphe.net> (https://xiphe.net/)",
+  "author": "Saifoo Khan <isaifookhan@gmail.com> (https://saifookhan.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cotype/local-thumbnail-provider/issues"
@@ -33,7 +33,6 @@
   },
   "devDependencies": {
     "@types/fs-extra": "5.1.0",
-    "@types/sharp": "0.32.1",
     "typescript": "4.9.5"
   }
 }
