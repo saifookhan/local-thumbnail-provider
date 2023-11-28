@@ -27,7 +27,7 @@
   "homepage": "https://github.com/cotype/local-thumbnail-provider#readme",
   "dependencies": {
     "fs-extra": "7.0.1",
-    "sharp": "0.31",
+    "sharp": "0.32.6",
     "smartcrop-sharp": "2.0.7",
     "temp-write": "4.0.0",
     "tempy": "0.3.0"
